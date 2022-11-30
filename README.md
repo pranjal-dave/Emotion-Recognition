@@ -20,7 +20,7 @@ to evaluate the trained models. Both the folders contain seven
 sub folders each and they represent unique emotions. Thus the
 dataset has seven classes each representing an emotion. Below image shows different classes present in the dataset.
 
-![Emotions]()
+![Emotions](https://github.com/pranjal-dave/Emotion-Recognition/blob/main/emotion.PNG)
 
 As there is a high imbalance in the representation of
 different emotions in the FER2013 dataset, the state of the
